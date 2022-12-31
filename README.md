@@ -3,4 +3,5 @@
 ### Ques(1): What are quantitative data and qualitative data?
 #### Ans- Quantitative data are measures of values or counts and are expressed as numbers.Qualitative data are measures of 'types' and may be represented by a name, symbol, or a number code.
 Numeric variable = Quantitative data
-Categorical variable = Qualitative data    ![https://www.google.com/url?sa=i&url=https%3A%2F%2Fpharmacygyan.com%2Fwhat-is-data-in-statistics%2F&psig=AOvVaw0BR6Wm8MC36f63EWYP3LNB&ust=1672577490933000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODMkevyo_wCFQAAAAAdAAAAABAh]
+Categorical variable = Qualitative data   
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fpharmacygyan.com%2Fwhat-is-data-in-statistics%2F&psig=AOvVaw0BR6Wm8MC36f63EWYP3LNB&ust=1672577490933000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODMkevyo_wCFQAAAAAdAAAAABAh]
